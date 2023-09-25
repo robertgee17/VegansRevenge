@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 849059d91b7ba20458d95a7641f10e4f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - slaughterPanel: {fileID: 869675740156635518, guid: a555d0ae9d69f9e47935f4a1bbb9a762, type: 3}
+  - slaughterIcon: {fileID: 1523142699851486787, guid: 1a12d7df577b143418801d009e1e6774, type: 3}
+  - panelTarget: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

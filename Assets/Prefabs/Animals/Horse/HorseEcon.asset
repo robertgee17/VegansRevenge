@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5d9bb2f145ce3b498c453cf616a4a2d, type: 3}
+  m_Name: HorseEcon
+  m_EditorClassIdentifier: 
+  numStartingOfThisType: 0
+  breedTime: 30
+  baseBuyCost: 350
+  livestockSellValue: 140
+  meatSellValue: 0
+  timeToSlaughter: -1
+  foodToBreed: 30
+  icon: {fileID: 21300000, guid: e863b12b125b7b6468d244c42765ad39, type: 3}

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: afcceb3b50f469f49bb4930e7d666c9c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - garrisonPanel: {fileID: 869675740156635518, guid: a555d0ae9d69f9e47935f4a1bbb9a762, type: 3}
+  - garrisonButton: {fileID: 2684092932722287558, guid: 291be20e31554964297fd47afa747333, type: 3}
+  - panelTarget: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

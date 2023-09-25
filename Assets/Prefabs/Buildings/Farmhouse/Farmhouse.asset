@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0106c311108eef49a1d59df420b816d, type: 3}
+  m_Name: Farmhouse
+  m_EditorClassIdentifier: 
+  cost: 0
+  maxGarrisonNum: 15
+  icon: {fileID: 21300000, guid: 700b07f45d3c48b4bb2a286d2dcfd521, type: 3}
+  health: 1000
+  damage: 30
+  attackRate: 1.5
+  range: 30
+  aoeRadius: 0
+  attackType: 0
+  isRanged: 1
+  projectile: {fileID: 4793923128379957288, guid: b91171b0260176c4095d276286b39119, type: 3}

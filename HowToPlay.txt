@@ -1,0 +1,53 @@
+NOTE: if your animals aren't breeding, make sure you have some food! animals will not breed without having enough food
+    - you can buy more food from the trader
+
+CHEAT CODES: 
+z = increase gold by 1000
+    - use this to try out the shop
+r = decrease wave timer by 10
+t = increase wave timer by 10
+    - use to help test combat faster/give more time to test econ stuff
+Current Controls:
+Zoom in/out = mouse scroll in/out
+Move camera = drag with middle mouse button
+Rotate camera = a,d
+Reset camera location to start = s
+Select building or animal or plant = left click
+ - when you select an object, you can see what it is, and its stats in the bottom right
+Move animal = right click while having animal selected
+Quit game = esc
+
+Garrisoning and breeding
+Garrison animal = animal collides with building once you move the animal to the building by right clicking on building while having animal selected
+ - when you garrison an animal in a building, you'll see the building's stats go up(if it has the stats relevant to the animal's garrison stat increases)
+ - Remove garrisoned animal from building = button on GUI while having building selected
+
+Breed animal = garrison animal in breeding area
+ - there's currently no progress bar to see how close you are to breeding, but I plan to add that later
+ - you can see how many animals are garrisoned, so you'll see that number go up when it breeds
+ - the breeding time is increased by a multiple of x/2 rounded down where x is the number of animals in the breeding area
+
+ Slaughterhouse
+ - animals will be automatically queued up to slaughter when you garrison them in the slaughterhouse
+ - you cannot ungarrison an animal that's in the slaughterhouse
+
+Trader
+ - can buy food, any animal, and any kind of building(excluding farmhouses, you can't have multiples of those)
+
+ Making money
+ - move an animal to the slaughterhouse to have it be slaughtered for some amount of money after some duration of time
+ - move an animal to the trader to have it sold as livestock instantly for less money than the slaughtered amt would have sold for
+
+What building is what:
+farmhouse = house
+tower = red silo
+breeding area = animal pen looking thing
+Slaughterhouse = barn
+Trader = building at top right of map
+
+You can see the amount of gold and food you have at the top left of the screen
+
+Circles around selected object:
+    - inner circle = range
+    - outer circle = aggro radius
+    If there's only one circle, that means the range and aggro radius are the same
